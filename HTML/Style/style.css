@@ -1,0 +1,22 @@
+body {
+    background-color: #cccccc;
+    line-height: 1.5;
+    font-family: Tahoma;
+    font-size: 20px;
+}
+.title1 {
+    font-size: 45px;
+    color: #656565
+}
+.title2 {
+    font-size: 35px;
+    color: #656565
+}
+.title3 {
+    font-size: 25px;
+    color: #656565
+}
+.title4 {
+    font-size: 15px;
+    color: #656565
+}
